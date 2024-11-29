@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=huhaoming2011&left_color=green&right_color=red)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 
 ![huhaoming2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhaoming2011)
 
