@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;欢+迎+来+到+我+的+Github)
 
 ![huhaoming2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhaoming2011)
 
