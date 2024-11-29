@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?huhaoming2011=huhaoming2011&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=huhaoming2011&left_color=green&right_color=red)
 
 ![huhaoming2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhaoming2011)
 
