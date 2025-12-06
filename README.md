@@ -2,9 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;欢+迎+来+到+我+的+Github)
 
-![huhaoming2011's GitHub stats](https://github-readme-stats.vercel.app/api?username=huhaoming2011)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huhaoming2011)
+![huhaoming2011's GitHub stats](https://cfrating.baoshuo.dev/rating?username=2023huhaoming)
+![huhaoming2011's GitHub stats](https://atrating.baoshuo.dev/rating?username=huhaoming)
 
 <!--
 **huhaoming2011/huhaoming2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
